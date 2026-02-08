@@ -30,3 +30,20 @@ Identifies, analyzes, and mitigates business risks.
 Supply Chain Management
 Manages the flow of goods, services, and information from source to customer.
 
+🎯 Purpose of the Project
+
+Provide concise explanations of management types
+
+Serve as a quick revision guide
+
+Help learners understand where each management type is applied
+
+Useful for academic, interview, and documentation purposes
+
+🛠️ Tech / Format (Optional)
+
+Markdown-based documentation
+
+Easy to extend with examples, diagrams, or case studies
+
+Suitable for static websites or documentation portals
